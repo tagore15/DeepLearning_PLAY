@@ -3,6 +3,12 @@
 http://www.deeplearningbook.org/   
 http://neuralnetworksanddeeplearning.com/   
 
+## RESEARCH PAPERS
+http://arxiv-sanity.com/   
+https://deepmind.com/research/publications/   
+https://openai.com/research/#publications   
+https://research.google.com/pubs/BrainTeam.html
+
 ## CONVOLUTIONAL NEURAL NETWORKS
 
 ## RECURRENT NEURAL NETWORKS
