@@ -1,3 +1,5 @@
+## BLOG
+http://digest.deeplearningweekly.com/    
 
 ## BOOKS
 http://www.deeplearningbook.org/   
