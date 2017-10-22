@@ -2,7 +2,9 @@
 http://digest.deeplearningweekly.com/    
 
 ## BOOKS
-http://www.deeplearningbook.org/   
+http://www.deeplearningbook.org/     
+[https://www.youtube.com/playlist?list=PLsXu9MHQGs8eO64mazCnCU3bc9l25Z1ZZ]    
+
 http://neuralnetworksanddeeplearning.com/   
 
 ## RESEARCH PAPERS
@@ -27,5 +29,5 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 http://blog.echen.me/2017/05/30/exploring-lstms/    
 http://distill.pub/2016/augmented-rnns/    
 
-## GENERATIVE ADVERSERIAL NETWORKS    
-
+## GENERATIVE ADVERSERIAL NETWORKS       
+https://arxiv.org/pdf/1710.07035.pdf
