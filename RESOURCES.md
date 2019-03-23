@@ -21,7 +21,8 @@ https://research.fb.com/publications/?cat=13
 
 ## COURSES
 https://in.udacity.com/courses/school-of-ai        
-https://course.fast.ai/
+https://course.fast.ai/     
+https://www.coursera.org/browse/data-science     
 
 ## VIDEOS
 https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A    
