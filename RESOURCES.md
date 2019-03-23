@@ -1,4 +1,4 @@
-## BLOG
+## BLOGS
 http://digest.deeplearningweekly.com/       
 https://distill.pub/     
 https://lilianweng.github.io/lil-log/     
@@ -20,7 +20,8 @@ https://research.google.com/pubs/BrainTeam.html
 https://research.fb.com/publications/?cat=13    
 
 ## COURSES
-https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101/    
+https://in.udacity.com/courses/school-of-ai        
+https://course.fast.ai/
 
 ## VIDEOS
 https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A    
